@@ -1,0 +1,14 @@
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\bin\Debug\net8.0\22.05.2024.exe
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\bin\Debug\net8.0\22.05.2024.deps.json
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\bin\Debug\net8.0\22.05.2024.runtimeconfig.json
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\bin\Debug\net8.0\22.05.2024.dll
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\bin\Debug\net8.0\22.05.2024.pdb
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\obj\Debug\net8.0\22.05.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\obj\Debug\net8.0\22.05.2024.AssemblyInfoInputs.cache
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\obj\Debug\net8.0\22.05.2024.AssemblyInfo.cs
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\obj\Debug\net8.0\22.05.2024.csproj.CoreCompileInputs.cache
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\obj\Debug\net8.0\22.05.2024.dll
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\obj\Debug\net8.0\refint\22.05.2024.dll
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\obj\Debug\net8.0\22.05.2024.pdb
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\obj\Debug\net8.0\22.05.2024.genruntimeconfig.cache
+C:\Users\test2\source\repos\22.05.2024\22.05.2024\obj\Debug\net8.0\ref\22.05.2024.dll
